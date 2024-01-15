@@ -4,6 +4,37 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>EvnerLib_DoubleExtension</Title>
+    <Authors>Espantapajaros22</Authors>
+    <Description>A simple lib which allow you to parse double and float numbers with , character.</Description>
+    <PackageProjectUrl>https://github.com/FantaCola49/EvnerLib</PackageProjectUrl>
+    <PackageIcon>divider_geometry_statonary_math_school_icon_255794 (1).png</PackageIcon>
+    <RepositoryUrl>https://github.com/FantaCola49/EvnerLib</RepositoryUrl>
+    <AnalysisLevel>6.0</AnalysisLevel>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PackageTags>EvnerLib Double doubleextension DoubleExtension StringExtension Espantapajaros</PackageTags>
+    <PackageReadmeFile>README.MD</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\e.neretin\Downloads\divider_geometry_statonary_math_school_icon_255794 (1).png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.MD">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
